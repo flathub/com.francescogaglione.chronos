@@ -38,7 +38,7 @@
         {
           "type": "git",
           "url": "https://github.com/cosmic-utils/chronos.git",
-          "commit": "a677d810e9ebd74cf57768a18609ba401470534d"
+          "commit": "d055bc28efec77079b49f15cdab1b90b7b3cd0ca"
         },
         "cargo-sources.json"
       ]
